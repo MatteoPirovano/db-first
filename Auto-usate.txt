@@ -1,0 +1,18 @@
+Marca - stringa - CHAR - UNIQUE
+Modello - stringa - CHAR - UNIQUE 
+Anno - data - YEAR - NULL 
+Chilometraggio - intero - SMALLINT - NULL
+Tipo di cambio - stringa - CHAR - NULL
+Marce - intero - TINYINT - NULL 
+Cilindrata - intero - SMALLINT - NULL
+Cilindri - intero - TINYINT - NULL 
+Peso a vuoto - intero - SMALLINT - NULL 
+Colore esterno - stringa - CHAR - NULL
+Rivestimenti - stringa - VARCHAR - NULL
+Carrozzeria - stringa - VARCHAR - NULL 
+Porte - intero - TINYINT - NULL
+Posti a sedere - intero - TINYINT - NULL
+Alimentazione - stringa - CHAR - NULL
+Classe emissioni -stringa - CHAR - NULL
+Descrizione auto - stringa - TEXT 
+Foto - stringa - TEXT 
